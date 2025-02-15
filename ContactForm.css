@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body  {
+  font-family: "Monda", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+  
+      
+.container{
+    padding: 30px;
+    
+}
+.section--one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.section--one__contact{
+    background-color: whitesmoke;
+    color: blue;
+    text-decoration: none;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.section--one__name{
+    font-size: 50px;
+    text-decoration: none;
+    color: white;
+}
+.section--one__role{
+    font-size: 20px;
+    margin-top: 5px;
+
+}
+.section--three{
+    margin-top: 10px;
+    background-color: black;
+    padding: 20px;
+    color: whitesmoke;
+}
+.section--three__title a {
+    color:forestgreen;
+    text-decoration: none;
+}
+.section--two td{
+    padding-top: 20px;
+    border: none;
+}
+.section--two__submit{
+    background-color:black;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 10px;
+    border: none;
+}
+.section--two__input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.section--two__textarea{
+    border: none;
+    border: 1px solid black;
+}
